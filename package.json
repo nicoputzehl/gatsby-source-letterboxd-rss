@@ -1,6 +1,12 @@
 {
   "name": "gatsby-source-letterboxd-rss",
   "version": "0.0.1",
+  "keywords": [
+    "gatsby",
+    "gatsby-plugin"
+  ],
+  "author": "Nico Putzehl <nico.putzehll@gmail.com>",
+  "license": "MIT",
   "dependencies": {
     "cheerio": "1.0.0-rc.3",
     "node-fetch": "2.6.1"

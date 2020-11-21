@@ -14,8 +14,8 @@ Example config
     {
       resolve: `gatsby-source-letterboxd-rss`,
       options: {
-        letterboxdUserName: "theLetterboxdUsername"
+        letterboxdUserName: "ntotheico"
       }
-    }
+    },
   ],
   ```
